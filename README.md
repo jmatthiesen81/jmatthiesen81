@@ -10,10 +10,11 @@ I'm focused on developing modern web applications, designing flexible e-commerce
 Together with Net Inventors GmbH, I'm building powerful digital products that help businesses thrive in a fast-changing world.
 
 - 🛠️ [PAYONE-GmbH/shopware-6](https://github.com/PAYONE-GmbH/shopware-6)
-- 🛠️ [netinventors/shopware6-psalm-plugins](https://gitlab.netinventors.de/shopware6/labs/psalm-plugins)
-- 🛠️ [netinventors/shopware6-psalm-stubs](https://gitlab.netinventors.de/shopware6/labs/psalm-stubs)
-- 🛠️ [netinventors/shopware6-plugin-installer](https://gitlab.netinventors.de/shopware6/labs/plugin-installer)
-- 🛠️ [netinventors/shopware6-patches](https://gitlab.netinventors.de/shopware6/patches)
+- 🛠️ [netinventors/pw-teaser](https://packagist.org/packages/netinventors/pw-teaser) - TYPO3 Teaser Extension
+- 🛠️ [netinventors/shopware6-psalm-plugins](https://packagist.org/packages/netinventors/shopware6-psalm-plugins)
+- 🛠️ [netinventors/shopware6-psalm-stubs](https://packagist.org/packages/netinventors/shopware6-psalm-stubs)
+- 🛠️ [netinventors/shopware6-plugin-installer](https://packagist.org/packages/netinventors/shopware6-plugin-installer)
+- 🛠️ [netinventors/shopware6-patches](https://packagist.org/packages/netinventors/shopware6-patches)
 - 🐳 [netinventors/shopware](https://hub.docker.com/r/netinventors/shopware) - Shopware 6 Docker Image
 
 ---
